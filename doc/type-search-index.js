@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"<Unnamed>","l":"Buffer"},{"p":"<Unnamed>","l":"Complex"},{"p":"<Unnamed>","l":"Main"},{"p":"<Unnamed>","l":"MasterThread"},{"p":"<Unnamed>","l":"QuadraticEquation"},{"p":"<Unnamed>","l":"SlaveThread"},{"p":"<Unnamed>","l":"MasterThread.ThreadStats"}];updateSearchResults();
