@@ -44,33 +44,25 @@ Java Documents are visible using a local server on the machine. You must have at
 
 ## User Documentation
 
-<dl>
- 
- <dt> Launching the Program </dt>
-  <dd> 
+### Launching the Program
+
 To start the program navigate to the Main.java file and click the run button from your IDE.   
 The run button should look like a green arrow, or something similar to that.
-  </dd>
 
- <dt> Using the program </dt>
- <dd>
-  Once the program is running, you will be presented with a menu inside the command-line window that offers the following: <br>
-Enter 1 to generate and solve roots for 30 randomly generated sets of coefficients. <br>
-Enter 2 to generate and solve roots for 3000 randomly generated sets of coefficients. <br>
-To select an option, enter '1' or '2' inside the console and press enter. Attempting to enter anything else will result in the console printing a message to try again. <br>
-If you select '1', the program will print the roots for each of the 30 equations it generated. <br>
-If you select '2', the program will print out statistics about each of the 10 threads used to process the equations. These statistics include how many equations each of the threads processed as well as the average time it took each of them to process an equation.
- </dd>
+### Using the program 
 
-<dt> Exiting the Program </dt>
- <dd> 
+Once the program is running, you will be presented with a menu inside the command-line window that offers the following:
+- Enter 1 to generate and solve roots for 30 randomly generated sets of coefficients. 
+- Enter 2 to generate and solve roots for 3000 randomly generated sets of coefficients. 
+
+To select an option, enter '1' or '2' inside the console and press enter. Attempting to enter anything else will result in the console printing a message to try again.
+
+- If you select '1', the program will print the roots for each of the 30 equations it generated. <br>
+- If you select '2', the program will print out statistics about each of the 10 threads used to process the equations. These statistics include how many equations each of the threads processed as well as the average time it took each of them to process an equation.
+
+
+### Exiting the Program 
 The program will automatically terminate after displaying the results. 
- </dd>
- 
-</dl>
-
-
- 
 
 ## Source Code
 [Click here to view the source code](https://github.com/jarkin0513/Java-Multithreading/tree/main/src)
